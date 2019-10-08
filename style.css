@@ -1,3 +1,11 @@
 #loading, #results {
     display: none;
 }
+
+.input-group-addon {
+    background-color: lightgray;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+}
+
